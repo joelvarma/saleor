@@ -102,6 +102,7 @@ All notable, unreleased changes to this project will be documented in this file.
 
 ### Other notable changes
 
+- Fix 'Add to Cart' button error for unpublished products - #4928 by @joelvarma & @maarcingebala
 - Replace Pipenv with Poetry - #3894 by @michaljelonek
 - Upgrade `django-prices` to v2.1 - #4639 by @NyanKiyoshi
 - Disable reports from uWSGI about broken pipe and write errors from disconnected clients - #4596 by @NyanKiyoshi
